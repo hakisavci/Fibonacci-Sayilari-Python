@@ -1,2 +1,2 @@
-# FibonacciSayilari-Python
-Fibonacci Sayilari-Python
+# Fibonacci Sayilari-Python
+# 0'dan 1010101 kadar fibonacci sayıları.
